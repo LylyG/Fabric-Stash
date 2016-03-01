@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  type: 
+  product: MyString
   composition: MyString
   project_id: 1
 
 two:
-  type: 
+  product: MyString
   composition: MyString
   project_id: 1

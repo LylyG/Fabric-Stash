@@ -1,7 +1,7 @@
 class CreateFabrics < ActiveRecord::Migration
   def change
     create_table :fabrics do |t|
-      t.string :type
+      t.string :product
       t.string :composition
       t.integer :project_id
 
